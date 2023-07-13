@@ -1,6 +1,6 @@
 package com.aulamatriz.programer.clase.absctracts;
 
-abstract class Figura {
+public abstract class Figura {
 
     protected String color;
 
